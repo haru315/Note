@@ -2,8 +2,11 @@
     "filePath": "C:",
     "folder": [],
     "file": [
-        "環境の起動の仕方.txt",
-        "img\\result.png",
+        "fileBlackList.json",
+        "fileMap.json",
+        "archiveFileScan.py",
+        "zipArchive.py",
+        "zipArchive_2.py",
         "zipData.zip"
     ]
 }
