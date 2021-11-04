@@ -14,3 +14,9 @@ fileMap.jsonの内容のファイル・ディレクトリーを圧縮
 
 ## zipArchive_2.py
 fileMap.jsonの内容以外のファイル・ディレクトリーを圧縮
+
+## zipArchive_3.py
+zipArchive_2.pyをオプションでをで指定できるようにした
+
+## writeConfiguration.py
+コンフィグ関数の試し、
