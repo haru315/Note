@@ -20,3 +20,6 @@ zipArchive_2.pyをオプションでをで指定できるようにした
 
 ## writeConfiguration.py
 コンフィグ関数の試し、
+
+## modelAdd.py
+writeConfiguration.pyで生成したjsonをターゲットjsonに追加するプログラム
