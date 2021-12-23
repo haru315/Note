@@ -28,11 +28,14 @@ add_json = json.load(f)
 # print(add_json)
 
 ############################################################
+# backend_config最後尾を取得
+backend_config_end = target_dict['backend_config'][-1]
+
 # backend_config最後尾のmodels取得
-models = target_dict['backend_config'][-1]['models']
+models = backend_config_end['models']
 
 # backend_config最後尾のapps取得
-apps = target_dict['backend_config'][-1]['apps']
+apps = backend_config_end['apps']
 
 ############################################################
 
